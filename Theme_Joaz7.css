@@ -4,7 +4,7 @@
   --TB-position-top: var(--TB-top, var(--window-padding));
   --TB-position-right: var(--window-padding);
   --tint: rgba(var(--tint-colour), var(--tint-brightness));
-  --white-half: rgba(247,47,47);
+  --white-half: rgba(255,255,255,0.05);
   --white: rgba(255,255,255,0.05);
   --white-double: rgba(255,255,255,0.1);
   --white-triple: rgba(255,255,255,0.15);
@@ -102,7 +102,7 @@
   position: absolute;
   height: 5px;
   width: 100%;
-  background: linear-gradient(rgba(247,47,47), transparent);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), transparent);
   z-index: 1;
   top: 48px;
   pointer-events: none;
@@ -523,7 +523,7 @@
   box-shadow: none;
 }
 #app-mount .animatedContainer-1pJv5C {
-  -webkit-mask: linear-gradient(rgba(247,47,47) 60%, rgba(247,47,47) 100%) !important;
+  -webkit-mask: linear-gradient(rgba(0, 0, 0, 0.9) 60%, rgba(0, 0, 0, 0) 100%) !important;
   top: 48px;
   background: transparent;
 }
@@ -595,7 +595,7 @@
 #app-mount .newMessagesBar-265mhP {
   background: var(--gradient);
   opacity: 1;
-  box-shadow: 0 2px 5px rgba(247,47,47);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 #app-mount .jumpToPresentBar-G1R9s6 {
   border-radius: 8px;
@@ -805,7 +805,7 @@
   color: var(--text-normal);
 }
 #app-mount .userPopout-3XzG_A .quickMessage-1yeL4E::placeholder {
-  color: rgba(247,47,47);
+  color: rgba(255, 255, 255, 0.3);
 }
 #app-mount .userPopout-3XzG_A .protip-YaFfgO {
   display: none;
@@ -1123,17 +1123,17 @@
 }
 #app-mount .root-1gCeng .container-UC8Ug1,
 #app-mount .root-1gCeng .lookFilled-1Gx00P.colorGrey-2DXtkV {
-  background: rgba(247,47,47);
+  background: rgba(255, 255, 255, 0.1);
 }
 #app-mount .root-1gCeng .container-UC8Ug1:hover,
 #app-mount .root-1gCeng .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
-  background: rgba(247,47,47);
+  background: rgba(255, 255, 255, 0.15);
 }
 #app-mount .root-1gCeng .colorStandard-2KCXvj {
   color: #fff;
 }
 #app-mount .root-1gCeng .footer-2gL1pp {
-  background: rgba(247,47,47);
+  background: rgba(0, 0, 0, 0.2);
 }
 #app-mount .root-1gCeng .backButton-iA7KIs {
   color: #ddd;
@@ -1145,7 +1145,7 @@
   background: transparent;
 }
 #app-mount .root-1gCeng .input-cIJ7To {
-  background: rgba(247,47,47);
+  background: rgba(255, 255, 255, 0.1);
   color: #fff;
 }
 #app-mount .root-1gCeng .sampleLink-2NLvZg {
@@ -1290,19 +1290,19 @@
   background: rgba(0, 154, 229, 0.2) !important;
 }
 #app-mount #user-settings .connection-1fbD7X[style*="rgb(2, 31, 37)"] {
-  background: rgba(247,47,47) !important;
+  background: rgba(2, 31, 37, 0.3) !important;
 }
 #app-mount #user-settings .connection-1fbD7X[style*="rgb(255, 69, 0)"] {
-  background: rgba(247,47,47) !important;
+  background: rgba(255, 69, 0, 0.2) !important;
 }
 #app-mount #user-settings .connection-1fbD7X[style*="rgb(29, 185, 84)"] {
-  background: rgba(247,47,47) !important;
+  background: rgba(29, 185, 84, 0.2) !important;
 }
 #app-mount #user-settings .connection-1fbD7X[style*="rgb(24, 35, 50)"] {
-  background: rgba(247,47,47) !important;
+  background: rgba(24, 35, 50, 0.4) !important;
 }
 #app-mount #user-settings .connection-1fbD7X[style*="rgb(89, 54, 149)"] {
-  background: rgba(247,47,47) !important;
+  background: rgba(89, 54, 149, 0.3) !important;
 }
 #app-mount #user-settings .connection-1fbD7X .integration-3kMeY4 {
   background: var(--white);
