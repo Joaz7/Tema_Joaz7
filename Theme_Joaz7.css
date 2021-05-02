@@ -4,7 +4,7 @@
   --TB-position-top: var(--TB-top, var(--window-padding));
   --TB-position-right: var(--window-padding);
   --tint: rgba(var(--tint-colour), var(--tint-brightness));
-  --white-half: rgba(255,255,255,0.05);
+  --white-half: rgba(255,255,255,0.025);
   --white: rgba(255,255,255,0.05);
   --white-double: rgba(255,255,255,0.1);
   --white-triple: rgba(255,255,255,0.15);
