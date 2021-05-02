@@ -60,7 +60,7 @@
   --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
   --logo-primary: #fff;
   --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
-  --channeltextarea-background: rgba(255,255,255,0.05);
+  --channeltextarea-background: rgba(51, 50, 50, 0.685);
   --activity-card-background: #202225;
   --textbox-markdown-syntax: #8e9297;
   --deprecated-card-bg: rgba(0,0,0,0.3);
