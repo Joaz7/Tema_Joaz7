@@ -10,6 +10,7 @@ Discord Theme made in CSS (Seven Style)
 ╚█████╔╝╚█████╔╝██║░░██║███████╗░░██╔╝░░
 ░╚════╝░░╚════╝░╚═╝░░╚═╝╚══════╝░░╚═╝░░░
 
+![alt text](https://cdn.discordapp.com/attachments/839657892935499817/839658112293666836/unknown.png)
 
 This theme was based on the '' Frosted Glass '' theme
 ----------------
