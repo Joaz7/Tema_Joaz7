@@ -1,16 +1,10 @@
 # Tema_Joaz7
 Discord Theme made in CSS (Seven Style)
-
-
-
-░░░░░██╗░█████╗░░█████╗░███████╗███████╗
-░░░░░██║██╔══██╗██╔══██╗╚════██║╚════██║
-░░░░░██║██║░░██║███████║░░███╔═╝░░░░██╔╝
-██╗░░██║██║░░██║██╔══██║██╔══╝░░░░░██╔╝░
-╚█████╔╝╚█████╔╝██║░░██║███████╗░░██╔╝░░
-░╚════╝░░╚════╝░╚═╝░░╚═╝╚══════╝░░╚═╝░░░
-
+(General)
 ![alt text](https://cdn.discordapp.com/attachments/839657892935499817/839658112293666836/unknown.png)
+
+(Home Button)
+![alt text](https://cdn.discordapp.com/attachments/824875951099478027/837085405340893204/Gif_Icon_By_Joaz7.gif)
 
 This theme was based on the '' Frosted Glass '' theme
 ----------------
