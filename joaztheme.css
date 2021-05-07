@@ -3,7 +3,7 @@
     --TB-tr-roundness: var(--window-roundness);
     --TB-position-top: var(--TB-top, var(--window-padding));
     --TB-position-right: var(--window-padding);
-    --tint: rgba(var(--tint-colour), var(--tint-brightness));
+    --tint: rgba(245,203,92)
     --white-half: rgba(255,255,255,0.025);
     --white: rgba(255,255,255,0.05);
     --white-double: rgba(255,255,255,0.1);
@@ -37,7 +37,7 @@
     --channels-default: #ddd;
     --interactive-normal: #FFB83A;
     --interactive-hover: #fff;
-    --interactive-active: #ddd;
+    --interactive-active: #fff;
     --interactive-muted: #777;
     --background-primary: transparent;
     --background-secondary: rgba(0,0,0,0.3);
