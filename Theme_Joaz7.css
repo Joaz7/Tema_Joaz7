@@ -35,12 +35,12 @@
     --text-muted: #aaa;
     --text-link: #00b0f4;
     --channels-default: #ddd;
-    --interactive-normal: #bbb;
-    --interactive-hover: #bbb;
-    --interactive-active: #bbb;
+    --interactive-normal: #FFB83A;
+    --interactive-hover: #fff;
+    --interactive-active: #ddd;
     --interactive-muted: #777;
     --background-primary: transparent;
-    --background-secondary: rgba(245,203,92);
+    --background-secondary: rgba(0,0,0,0.3);
     --background-secondary-alt: transparent;
     --background-tertiary: transparent;
     --background-accent: #4f545c;
