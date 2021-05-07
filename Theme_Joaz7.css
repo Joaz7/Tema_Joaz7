@@ -37,7 +37,7 @@
     --channels-default: #ddd;
     --interactive-normal: #FFB83A;
     --interactive-hover: #FFE13C;
-    --interactive-active: #FFE13C;
+    --interactive-active: #bbb;
     --interactive-muted: #777;
     --background-primary: transparent;
     --background-secondary: rgba(245,203,92);
