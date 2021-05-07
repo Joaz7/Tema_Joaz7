@@ -256,7 +256,6 @@
     background-size: var(--popout-modal-size, cover);
     background-attachment: var(--popout-modal-attachment, fixed);
     background-repeat: var(--popout-modal-repeat, no-repeat);
-    box-shadow: inset 245 203 92 100vmax rgba(245,203,92 var(--popout-modal-brightness));
     height: calc(100% + var(--popout-modal-blur) * 5);
     width: calc(100% + var(--popout-modal-blur) * 5);
     top: calc(var(--popout-modal-blur) / -1 * 2.5);
