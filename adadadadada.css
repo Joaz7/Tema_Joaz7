@@ -41,10 +41,10 @@
     --interactive-muted: #777;
     --background-primary: transparent;
     --background-secondary: rgba(0,0,0,0.3);
-    --background-secondary-alt: transparent;
-    --background-tertiary: transparent;
+    --background-secondary-alt: rgba(255,255,255,0.05);
+    --background-tertiary: rgba(255,255,255,0.05);
     --background-accent: #4f545c;
-    --background-floating: transparent;
+    --background-floating: rgba(255,255,255,0.05);
     --background-mobile-primary: #36393f;
     --background-mobile-secondary: #2f3136;
     --background-modifier-hover: rgba(255,255,255,0.05);
