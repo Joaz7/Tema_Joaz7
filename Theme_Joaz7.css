@@ -35,9 +35,9 @@
     --text-muted: #aaa;
     --text-link: #00b0f4;
     --channels-default: #ddd;
-    --interactive-normal: #FFB83A;
+    --interactive-normal: #ff0442;
     --interactive-hover: #fff;
-    --interactive-active: #ddd;
+    --interactive-active: #fff;
     --interactive-muted: #777;
     --background-primary: transparent;
     --background-secondary: rgba(0,0,0,0.3);
@@ -58,7 +58,7 @@
     --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
     --elevation-medium: 0 4px 4px rgba(0,0,0,0.16);
     --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
-    --logo-primary: #F5CB5C;
+    --logo-primary: #ff0442;
     --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
     --channeltextarea-background: rgba(51, 50, 50, 0.685);
     --activity-card-background: #202225;
